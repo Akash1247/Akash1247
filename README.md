@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Akash 👋
 
-<!--
-**Akash1247/Akash1247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about building scalable backend architectures, robust REST APIs, and seamless full-stack applications. 
 
-Here are some ideas to get you started:
+**🛠️ Tech Stack**
+*   **Backend:** Java, Spring Boot, Python, FastAPI
+*   **Frontend:** React, Vite, Tailwind CSS
+*   **Databases & Tools:** PostgreSQL, MySQL, Valkey, IndexedDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Featured Projects**
+*   **RideBuddy:** A dynamic rider-pooling application featuring secure JWT authentication, real-time WebSocket updates, and OpenStreetMap integration.
+*   **Attirely:** A modern e-commerce backend built with Java, supporting Google OAuth, email OTP login, and role-based access control.
+
+**📫 Let's Connect**
+*   LinkedIn: https://www.linkedin.com/in/akash-yadav-b32aa91b7/
+*   Email: ay99059@gmail.com
